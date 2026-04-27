@@ -1,5 +1,16 @@
 # Platform Specific Implementation: Battery Level (SMD-Group4-CW6)
+---
+## 👥 Group 4 Information
+**Course:** Software for Mobile Devices (SMD)
 
+| Name | ID |
+| :--- | :--- |
+| **Sarim Shah** | 22K-4299 |
+| **Rayyan Zafar** | 22K-4561 |
+| **Abdul Moiz Farooq** | 21K-4911 |
+| **Abdul Ali Ahmed** | 21K-3379 |
+
+---
 ## 📌 Project Overview
 This repository contains the implementation for **Class Work 6 (CW6)** for the **Software for Mobile Devices (SMD)** course. The project demonstrates the bridge between **Flutter (Dart)** and **Native Android (Java)** using **Platform Channels**.
 
@@ -45,15 +56,4 @@ As seen in our `MainActivity.java`, we implemented:
 
 ---
 
-## 👥 Group 4 Information
-**Course:** Software for Mobile Devices (SMD)
-
-| Name | ID |
-| :--- | :--- |
-| **Sarim Shah** | 22K-4299 |
-| **Rayyan Zafar** | 22K-4561 |
-| **Abdul Moiz Farooq** | 21K-4911 |
-| **Abdul Ali Ahmed** | 21K-3379 |
-
----
 *Submitted as part of the SMD Course Work requirements - 2026*
